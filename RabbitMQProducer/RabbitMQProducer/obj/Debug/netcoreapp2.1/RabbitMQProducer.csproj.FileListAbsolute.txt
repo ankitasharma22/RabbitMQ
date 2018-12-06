@@ -1,0 +1,11 @@
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.deps.json
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.runtimeconfig.json
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.runtimeconfig.dev.json
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.dll
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.csprojResolveAssemblyReference.cache
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.csproj.CoreCompileInputs.cache
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.AssemblyInfoInputs.cache
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.AssemblyInfo.cs
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.pdb
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.dll
+c:\users\asharma\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.pdb

@@ -1,0 +1,7 @@
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\bin\Debug\netcoreapp2.1\RabbitMQWorker.deps.json
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\bin\Debug\netcoreapp2.1\RabbitMQWorker.runtimeconfig.json
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\bin\Debug\netcoreapp2.1\RabbitMQWorker.runtimeconfig.dev.json
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\bin\Debug\netcoreapp2.1\RabbitMQWorker.dll
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\obj\Debug\netcoreapp2.1\RabbitMQWorker.csproj.CoreCompileInputs.cache
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\obj\Debug\netcoreapp2.1\RabbitMQWorker.AssemblyInfoInputs.cache
+C:\Users\asharma\source\repos\RabbitMQWorker\RabbitMQWorker\obj\Debug\netcoreapp2.1\RabbitMQWorker.AssemblyInfo.cs
